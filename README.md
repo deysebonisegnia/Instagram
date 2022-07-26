@@ -1,6 +1,7 @@
 # Instagram
 Aprendendo com instagram
-<div>
 
-  <i class="fa-brands fa-instagram"></i>
-  </div>
+Projeto com Gabriela Pinheiro da Dio.me
+
+  
+ 
